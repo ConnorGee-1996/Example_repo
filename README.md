@@ -1,4 +1,2 @@
 # example test
-hello world!
-
-this is a change
+trying out git checkout
